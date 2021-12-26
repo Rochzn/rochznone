@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+body{
+	background-color:rgb(100,220,220,);
+	font-size:26px;
+	color:blue;
+}
+
+p{
+	text-align:center;
+	background-color:rgb(200,220,120,);
+	font-size:30px;
+	color:blue;
+	
+}
